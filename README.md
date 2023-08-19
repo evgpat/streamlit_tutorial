@@ -1,2 +1,2 @@
-# streamlit_tutorial
+# Фреймворк Streamlit
 Демонстрация основных функций и виджетов фреймворка Streamlit
